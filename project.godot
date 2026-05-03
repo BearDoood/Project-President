@@ -51,4 +51,3 @@ dialogic_default_action={
 
 [rendering]
 
-rendering_device/driver.windows="d3d12"

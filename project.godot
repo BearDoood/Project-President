@@ -20,9 +20,17 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 [dialogic]
 
-directories/dch_directory={}
-directories/dtl_directory={}
+directories/dch_directory={
+"Bitch": "res://Bitch.dch"
+}
+directories/dtl_directory={
+"timeline": "res://timeline.dtl"
+}
 layout/style_directory={}
+layout/style_list=[]
+layout/default_style="Default"
+variables={}
+glossary/default_case_sensitive=true
 
 [editor]
 
@@ -51,3 +59,4 @@ dialogic_default_action={
 
 [rendering]
 
+rendering_device/driver.windows="d3d12"

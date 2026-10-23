@@ -1,0 +1,9 @@
+join TestCharacter center
+TestCharacter: If you can read this, Dialogic is working.
+TestCharacter: Click, or press Enter or Space, to move to the next line.
+TestCharacter: Want to try a choice?
+- Yes
+	TestCharacter: Choices work too. Nice.
+- No
+	TestCharacter: Fair enough.
+leave TestCharacter

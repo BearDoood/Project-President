@@ -22,8 +22,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"TestCharacter": "res://dialogic/characters/TestCharacter.dch",
-"unit_test_character": "res://Assets/dialogic-2.0-alpha-20/dialogic-2.0-alpha-20/Tests/Resources/unit_test_character.dch"
+"TestCharacter": "res://dialogic/characters/TestCharacter.dch"
 }
 directories/dtl_directory={
 "intro_test": "res://dialogic/timelines/intro_test.dtl"

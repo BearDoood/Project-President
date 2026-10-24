@@ -5,7 +5,7 @@ A time-loop visual novel with other genres mixed in, built in Godot.
 ## Requirements
 
 - **Godot 4.6** (standard build, not .NET). Use the same minor version as everyone else on the project.
-- **Dialogic 2** is included in `addons/dialogic/`. Version: `2.0-Alpha-20 WIP` (to be replaced with a tagged release).
+- **Dialogic 2** is included in `addons/dialogic/`. Version: `2.0-Alpha-20`.
 - **Godot Git plugin** is included in `addons/godot-git-plugin/` (optional).
 
 ## Opening the project

@@ -22,14 +22,23 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"Edge": "res://dialogic/characters/Edge.dch",
+"Jock": "res://dialogic/characters/Jock.dch",
+"MC": "res://dialogic/characters/MC.dch",
+"President": "res://dialogic/characters/President.dch",
+"Shaggy": "res://dialogic/characters/Shaggy.dch",
+"Sun": "res://dialogic/characters/Sun.dch",
 "TestCharacter": "res://dialogic/characters/TestCharacter.dch"
 }
 directories/dtl_directory={
 "intro_test": "res://dialogic/timelines/intro_test.dtl"
 }
-layout/style_directory={}
-layout/style_list=[]
-layout/default_style="Default"
+layout/style_directory={
+"": "res://Assets/New_File.tres",
+"New_File": "res://Assets/New_File.tres"
+}
+layout/style_list=["res://Assets/New_File.tres"]
+layout/default_style="res://Assets/New_File.tres"
 variables={}
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
@@ -64,6 +73,12 @@ audio/channel_defaults={
 "volume": 0.0
 }
 }
+
+[display]
+
+window/size/viewport_width=2560
+window/size/viewport_height=1440
+window/size/mode=3
 
 [editor]
 

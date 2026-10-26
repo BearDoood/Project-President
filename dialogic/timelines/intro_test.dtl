@@ -1,9 +1,9 @@
-join TestCharacter center
-TestCharacter: If you can read this, Dialogic is working.
-TestCharacter: Click, or press Enter or Space, to move to the next line.
-TestCharacter: Want to try a choice?
+[background arg="res://Assets/pngtree-students-studying-and-relaxing-on-a-vibrant-autumn-university-campus-lawn-image_20369785.webp" fade="0.5"]
+join President center
+President: Your balls are mine bitch
+President: There's nothing you can do about it, I'm taking your balls now.
 - Yes
-	TestCharacter: Choices work too. Nice.
+	President: Good boy.
 - No
-	TestCharacter: Fair enough.
-leave TestCharacter
+	President: Fuck you bitchass hoe.
+leave President

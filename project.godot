@@ -22,6 +22,12 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"Edge": "res://dialogic/characters/Edge.dch",
+"Jock": "res://dialogic/characters/Jock.dch",
+"MC": "res://dialogic/characters/MC.dch",
+"President": "res://dialogic/characters/President.dch",
+"Shaggy": "res://dialogic/characters/Shaggy.dch",
+"Sun": "res://dialogic/characters/Sun.dch",
 "TestCharacter": "res://dialogic/characters/TestCharacter.dch",
 "unit_test_character": "res://Assets/dialogic-2.0-alpha-20/dialogic-2.0-alpha-20/Tests/Resources/unit_test_character.dch"
 }
@@ -65,6 +71,12 @@ audio/channel_defaults={
 "volume": 0.0
 }
 }
+
+[display]
+
+window/size/viewport_width=2560
+window/size/viewport_height=1440
+window/size/mode=3
 
 [editor]
 
